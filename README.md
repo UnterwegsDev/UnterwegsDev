@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UnterwegsDev
 - 👀 I’m interested in Developing and learning new things
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects that could make a difference and help people. 
 - 📫 How to reach me Discord: Unterwegs#6666
 
