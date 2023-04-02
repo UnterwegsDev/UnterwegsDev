@@ -1,6 +1,6 @@
 <h3 align="center">just a Developer who likes e-kitten and e-pussy</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=unterwegsdev&label=Profile%20views&color=000000&style=flat-square" alt="unterwegsdev" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=unterwegsdev&label=Profile%20views&color=1a1a1a&style=flat-square" alt="unterwegsdev" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unterwegsdev" alt="unterwegsdev" /></a> </p>
 
