@@ -1,4 +1,4 @@
-<h3 align="center">just a Developer who likes e-kitten and e-pussy</h3>
+<h3 align="center">just a Developer who likes e-kitten</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=unterwegsdev&label=Profile%20views&color=1a1a1a&style=flat-square" alt="unterwegsdev" /> </p>
 
