@@ -14,7 +14,7 @@
 
 <h3 align="center">Other:</h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=unterwegsdev&show_icons=true&theme=dark&title_color=f7770f&text_color=ffffff&bg_color=1a1a1a&locale=en" alt="unterwegsdev" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=unterwegsdev&show_icons=true&theme=dark&title_color=f7770f&text_color=ffffff&bg_color=1a1a1a&locale=en&no-frame=true" alt="unterwegsdev" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unterwegsdev&theme=dark" alt="unterwegsdev" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unterwegsdev&theme=dark&no-frame=true" alt="unterwegsdev" />
 </p>
