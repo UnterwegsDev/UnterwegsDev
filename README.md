@@ -26,6 +26,17 @@
 - 🧰 **Small, sharp tools.** Dependency-free CLIs, honest error messages, tests that actually test. A linter should pass its own lint.
 - 🕶️ **Privacy by default.** Most of my work lives in private repositories. The interesting parts tend to surface eventually.
 
+## By the numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=UnterwegsDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=6e7681" alt="stats" />
+<img height="165" src="https://streak-stats.demolab.com?user=UnterwegsDev&hide_border=true&background=0d1117&stroke=30363d&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3&dayLabels=8b949e&excludeDaysLabel=6e7681" alt="streak" />
+
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnterwegsDev&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" alt="languages" />
+
+</div>
+
 ## Open tools
 
 Utilities I built for my own workflow years ago and never stopped using. I've
