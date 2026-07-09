@@ -31,7 +31,7 @@
 | Project | Status | About |
 |---|---|---|
 | **repolens** | 🟢 Public | A dependency-free Python CLI that audits any repository against open-source best practices — and audits itself in CI on every push. |
-| **A rather intelligent system** | 🟡 Development | Self-hosted agent platform: FastAPI core, persistent memory, background learning, self-updating. It wrote parts of its own deploy pipeline. |
+| **A rather intelligent system** | 🟠 Testing | Self-hosted agent platform: FastAPI core, persistent memory, background learning, self-updating. It wrote parts of its own deploy pipeline. |
 | **VaultComm** | 🟠 Testing | A secure, anonymous, European-built communication platform. |
 
 ## Principles
