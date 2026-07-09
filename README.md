@@ -37,6 +37,7 @@ them up in case they save someone else the same afternoon.
 | **repolens** | 🟢 Public | A dependency-free Python CLI that audits any repository against open-source best practices — and audits itself in CI on every push. |
 | **hookrelay** | 🟢 Public | A tiny self-hosted webhook relay. Match inbound hooks, verify the HMAC, template a message and fan it out to Slack, Discord, ntfy or any URL. Stdlib-only. Grew out of the glue I ran to route my own alerts. |
 | **certwatch** | 🟢 Public | TLS certificate expiry monitor for the terminal. Watches a list of hosts, sorts worst-first, exits non-zero for cron. Started life as a one-line script I leaned on for years. |
+| **mcpwarden** | 🟢 Public | A security auditor for local MCP servers. Static config scan, live tool inspection over a minimal stdio client, and a lockfile model that flags rug-pulls when a server's tools change under you. |
 
 ## Currently below the waterline
 
