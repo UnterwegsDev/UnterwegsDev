@@ -26,11 +26,22 @@
 - 🧰 **Small, sharp tools.** Dependency-free CLIs, honest error messages, tests that actually test. A linter should pass its own lint.
 - 🕶️ **Privacy by default.** Most of my work lives in private repositories. The interesting parts tend to surface eventually.
 
-## Currently below the waterline
+## Open tools
+
+Utilities I built for my own workflow years ago and never stopped using. I've
+rewritten each one from scratch — proper tests, CI, no loose ends — and opened
+them up in case they save someone else the same afternoon.
 
 | Project | Status | About |
 |---|---|---|
 | **repolens** | 🟢 Public | A dependency-free Python CLI that audits any repository against open-source best practices — and audits itself in CI on every push. |
+| **hookrelay** | 🟢 Public | A tiny self-hosted webhook relay. Match inbound hooks, verify the HMAC, template a message and fan it out to Slack, Discord, ntfy or any URL. Stdlib-only. Grew out of the glue I ran to route my own alerts. |
+| **certwatch** | 🟢 Public | TLS certificate expiry monitor for the terminal. Watches a list of hosts, sorts worst-first, exits non-zero for cron. Started life as a one-line script I leaned on for years. |
+
+## Currently below the waterline
+
+| Project | Status | About |
+|---|---|---|
 | **A rather intelligent system** | 🟠 Testing | Self-hosted agent platform: FastAPI core, persistent memory, background learning, self-updating. It wrote parts of its own deploy pipeline. |
 | **VaultComm** | 🟠 Testing | A secure, anonymous, European-built communication platform. |
 
