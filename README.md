@@ -1,20 +1,61 @@
-<h3 align="center">Unterwegs</h3>
+<div align="center">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=unterwegsdev&label=Profile%20views&color=1a1a1a&style=flat-square" alt="unterwegsdev" /> </p>
+# Unterwegs
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Unterwegsdev&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&theme=monokai&no-frame=true" alt="unterwegsdev" /></a> </p>
+**Security-minded software engineer — Python, automation & self-hosted AI.**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://discord.gg/yeaUkARgpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yeaUkARgpy" height="30" width="40" /></a>
-</p>
+*Always on the move. Rarely seen. Usually building.*
 
-<!--<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<br>
 
-<h3 align="center">Other:</h3>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=unterwegsdev&show_icons=true&theme=dark&title_color=f7770f&text_color=ffffff&bg_color=1a1a1a&locale=en&no-frame=true" alt="unterwegsdev" />
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=FCC624)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-1a1a1a?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unterwegsdev&theme=dark&no-frame=true" alt="unterwegsdev" />
-</p>
+</div>
+
+<br>
+
+```python
+from dataclasses import dataclass
+
+
+@dataclass(frozen=True)
+class Unterwegs:
+    focus: tuple = ("security tooling", "automation", "self-hosted AI agents")
+    stack: tuple = ("Python", "TypeScript", "FastAPI", "Docker")
+    location: str = "somewhere in Europe"
+    public_repos: str = "the tip of the iceberg"
+```
+
+## What I do
+
+- 🔐 **Security first.** I build tools that assume the worst — and verify it. If it isn't auditable, it isn't finished.
+- 🤖 **Self-hosted AI.** Persistent, tool-using agents with long-term memory, scheduling and skills — running on my own metal, not someone else's cloud.
+- 🧰 **Small, sharp tools.** Dependency-free CLIs, honest error messages, tests that actually test. A linter should pass its own lint.
+- 🕶️ **Privacy by default.** Most of my work lives in private repositories. The interesting parts tend to surface eventually.
+
+## Currently below the waterline
+
+| | |
+|---|---|
+| **repolens** | A dependency-free Python CLI that audits any repository against open-source best practices — and audits itself in CI on every push. |
+| **A rather intelligent system** | Self-hosted agent platform: FastAPI core, persistent memory, background learning, self-updating. It wrote parts of its own deploy pipeline. |
+| **VaultComm** | Concept for a secure, anonymous, European-built communication platform. |
+
+## Principles
+
+> Build it like you'll be the one who has to break it.
+
+- Boring technology, exciting results.
+- Every dependency is a liability with a changelog.
+- Automate the second time, not the tenth.
+
+---
+
+<div align="center">
+<sub>No socials. No newsletter. If it matters, it ships.</sub>
+</div>
