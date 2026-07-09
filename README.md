@@ -32,16 +32,13 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=UnterwegsDev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=6e7681" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=UnterwegsDev&hide_border=true&background=0d1117&stroke=30363d&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3&dayLabels=8b949e&excludeDaysLabel=6e7681" alt="streak" />
+![Followers](https://img.shields.io/github/followers/UnterwegsDev?style=flat-square&labelColor=0d1117&color=30363d&logo=github&logoColor=e6edf3)
+![Location](https://img.shields.io/badge/location-unterwegs-30363d?style=flat-square&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/focus-security%20%26%20self--hosted%20AI-30363d?style=flat-square&labelColor=0d1117)
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnterwegsDev&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=e6edf3&text_color=8b949e" alt="languages" />
+<br>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=UnterwegsDev&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+<img height="180" src="https://streak-stats.demolab.com?user=UnterwegsDev&hide_border=true&background=0d1117&stroke=30363d&ring=e6edf3&fire=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=6e7681&currStreakNum=e6edf3&sideNums=e6edf3&dayLabels=8b949e&excludeDaysLabel=6e7681" alt="commit streak" />
 
 </div>
 
