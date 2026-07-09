@@ -37,6 +37,20 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=UnterwegsDev&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+
+</div>
+
+## A year of small commits
+
+<div align="center">
+
+![contribution snake](https://raw.githubusercontent.com/UnterwegsDev/UnterwegsDev/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ## Open tools
 
 Utilities I built for my own workflow years ago and never stopped using. I've
