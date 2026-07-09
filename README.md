@@ -4,7 +4,7 @@
 
 **Security-minded software engineer — Python, automation & self-hosted AI.**
 
-*Always on the move. Rarely seen. Usually building.*
+[![what I am up to](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=E6EDF3&center=true&vCenter=true&width=640&height=44&lines=Always+on+the+move.+Rarely+seen.+Usually+building.;If+it+isn't+auditable%2C+it+isn't+finished.;Every+dependency+is+a+liability+with+a+changelog.;git+blame+says+it+was+me.)](https://github.com/UnterwegsDev)
 
 <br>
 
@@ -14,6 +14,8 @@
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-1a1a1a?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+
+[![seen](https://komarev.com/ghpvc/?username=UnterwegsDev&label=seen&color=6e7681&style=flat)](https://github.com/UnterwegsDev)
 
 </div>
 
