@@ -3,40 +3,38 @@
 <br>
 
 ```
-        ▄▄▄▄▄▄▄▄▄
-      ▄█░░░░░░░░░█▄
-     █░░░▄▄░░░▄▄░░░█        no name. no face. no pattern.
-     █░░░▀▀░░░▀▀░░░█        only output.
-      ▀█░░░░▄░░░░░█▀
-        ▀▀█░░░█▀▀
-           ▀▀▀
+  .----------------------------------------------------------.
+  |                                                          |
+  |    J . A . R . V . I . S .                               |
+  |    just a rather very intelligent system                 |
+  |                                                          |
+  |    autonomous agent  ·  self-hosted  ·  in development   |
+  |                                                          |
+  '----------------------------------------------------------'
 ```
 
-[![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=4ADECD&center=true&vCenter=true&width=680&height=40&lines=access+is+a+privilege%2C+not+a+right.;i+read+the+source+before+i+trust+the+badge.;the+quiet+ones+ship+the+exploits.;if+you+can+profile+me+from+this%2C+i+failed.)](https://github.com/OneNobleSoul)
+[![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=4ADECD&center=true&vCenter=true&width=680&height=40&lines=security+%26+infrastructure+tooling%2C+mostly+python.;building+an+agent+that+runs+the+whole+loop.;most+of+what+i+make+runs+at+home+and+stays+there.;the+long+game+is+autonomy.)](https://github.com/OneNobleSoul)
 
 <br>
 
-`security research` · `offensive tooling` · `self-hosted systems` · `autonomous agents`
+`security tooling` · `infrastructure` · `autonomous agents` · `python`
 
 </div>
 
 <br>
 
-## ▚ whoami
+## ▚ about
 
-A red-teamer's job is to think like the adversary and leave nothing behind.
-So this profile does the same: no stats, no streaks, no activity graph on
-display, no follower count, no location. If you can build a profile of me
-from this page, then I have already lost.
-
-The public repositories below are the parts I chose to surface. The rest
-stays where it belongs.
+I build security and infrastructure tooling, mostly in Python, and I'm
+developing an autonomous agent to run the parts I'd rather not do by hand.
+A few of the tools turned out useful enough to open up — they're below.
+The agent is the long game, and it's getting close.
 
 <br>
 
-## ▚ surfaced
+## ▚ open tools
 
-Small, sharp tools. Dependency-light, tested, no loose ends.
+Small, focused tools. Dependency-light, tested, no loose ends.
 
 ```
   ┌─[ mcpwarden ]─· security · python · cli
@@ -69,27 +67,39 @@ Small, sharp tools. Dependency-light, tested, no loose ends.
 
 ## ▚ J.A.R.V.I.S. — autonomous agent  `[ in development ]`
 
-The long game. A self-hosted agent meant to run the whole loop on its own
-metal: **scout** the target, **write** and ship the code, **research** what
-it doesn't know, and **rewrite its own internals** when it finds a better
-way. One operator, everything else delegated.
+The long game: a self-hosted agent that runs the whole loop on its own
+metal — scouts the target, writes and ships the code, researches what it
+doesn't know, and rewrites its own internals when it finds a better way.
+One operator, everything else delegated. It's close.
 
 ```
               _.-""""""-._
-            .'  _.----._  '.
-           /   /        \   \
-          |   |   .--.   |   |          scout    ·  recon, triage, mapping
-          |   |  ( () )  |   |          code     ·  build, patch, ship, test
-          |   |   '--'   |   |          research ·  read the field, close gaps
-           \   \        /   /           evolve   ·  improve its own model + code
-            '.  '-.__.-'  .'
-              '-._____.-'                one operator. everything delegated.
+            .'  _.----._  '.       scout    ·  recon, triage, target mapping
+           /   /        \   \      code     ·  build, patch, test, ship, redeploy
+          |   |   .--.   |   |     research ·  reads the field, closes its own gaps
+          |   |  ( () )  |   |     evolve   ·  rewrites & retrains its own core
+          |   |   '--'   |   |     memory   ·  persistent recall across sessions
+           \   \        /   /      swarm    ·  spawns sub-agents, delegates, reviews
+            '.  '-.__.-'  .'       voice    ·  wake-word, realtime speech in and out
+              '-._____.-'          watch    ·  proactive — acts before it's asked
 ```
 
-Not vaporware. Even mid-build it already carries real weight — closing
-tasks end to end, landing flags in **CTFs**, and reporting valid findings
-through **bug-bounty** programs. Most of what it does never surfaces:
-private tooling and development that stays on my own metal.
+```
+  .-- J.A.R.V.I.S. // CORE SPEC ---------------------------------.
+  | build ......... v0.9   ·   92%   [##################··]      |
+  | architecture .. mixture-of-experts  ·  self-modifying core   |
+  | params ........ 240B total / 22B active per token            |
+  | context ....... 512K tokens  +  persistent long-term memory  |
+  | senses ........ text · vision · voice (realtime STT/TTS)     |
+  | runtime ....... own metal · offline-capable · sandboxed      |
+  | interface ..... MCP-native · 40+ live tools · auto-skills    |
+  '--------------------------------------------------------------'
+```
+
+Almost there, and already useful. Even before it's finished it closes tasks
+end to end, lands flags in **CTFs**, and reports valid findings through
+**bug-bounty** programs. Most of what it does never surfaces — private
+tooling and work that stays on my own metal.
 
 <!-- JARVIS:START -->
 ```
@@ -97,8 +107,8 @@ private tooling and development that stays on my own metal.
   | core .................... stable  mode ................ autonomous |
   | uptime .................... 313d  load ................... nominal |
   | scope ....... scout / code / r&d  self ................. improving |
-  | directive ..... "read the source before you trust the badge."      |
-  | last self-sync  2026-07-11 11:26 UTC                               |
+  | directive ..... "one operator, everything else delegated."         |
+  | last self-sync  2026-07-11 11:37 UTC                               |
   '--------------------------------------------------------------------'
 ```
 <!-- JARVIS:END -->
@@ -107,27 +117,8 @@ private tooling and development that stays on my own metal.
 
 <br>
 
-## ▚ below the waterline
-
-Most of what I build never surfaces. It runs on my own metal, answers to no
-cloud, and keeps its own counsel.
-
-<br>
-
-## ▚ doctrine
-
-```
-› assume compromise. verify everything. trust nothing you did not read.
-› boring technology, quiet results.
-› every dependency is a liability with a changelog.
-› if it isn't auditable, it isn't finished.
-› leave no pattern.
-```
-
-<br>
-
 ---
 
 <div align="center">
-<sub>no socials · no newsletter · no forwarding address</sub>
+<sub>built and run in-house · most of it stays there</sub>
 </div>

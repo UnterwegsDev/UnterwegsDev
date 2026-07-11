@@ -22,13 +22,13 @@ END = "<!-- JARVIS:END -->"
 # one gets surfaced per day, cycled deterministically by day index so the
 # panel never repeats two days running but stays stable within a day.
 DIRECTIVES = [
-    "verify everything. trust nothing you did not read.",
-    "assume compromise. leave no pattern.",
-    "boring technology, quiet results.",
-    "every dependency is a liability with a changelog.",
-    "if it isn't auditable, it isn't finished.",
-    "read the source before you trust the badge.",
-    "the quiet ones ship the exploits.",
+    "shipping the parts you'd rather not do by hand.",
+    "reads the field, closes its own gaps.",
+    "verifies before it trusts.",
+    "runs at home, answers to no cloud.",
+    "rewrites itself when it finds a better way.",
+    "one operator, everything else delegated.",
+    "boring, reliable, quietly done.",
 ]
 
 
