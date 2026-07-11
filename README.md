@@ -1,18 +1,5 @@
 <div align="center">
 
-<br>
-
-```
-  .----------------------------------------------------------.
-  |                                                          |
-  |    J . A . R . V . I . S .                               |
-  |    just a rather very intelligent system                 |
-  |                                                          |
-  |    autonomous agent  ·  self-hosted  ·  in development   |
-  |                                                          |
-  '----------------------------------------------------------'
-```
-
 [![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=4ADECD&center=true&vCenter=true&width=680&height=40&lines=security+%26+infrastructure+tooling%2C+mostly+python.;building+an+agent+that+runs+the+whole+loop.;most+of+what+i+make+runs+at+home+and+stays+there.;the+long+game+is+autonomy.)](https://github.com/OneNobleSoul)
 
 <br>
