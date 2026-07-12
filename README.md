@@ -52,7 +52,7 @@ Small, focused tools. Dependency-light, tested, no loose ends.
 
 <br>
 
-## ▚ J.A.R.V.I.S. — autonomous agent  `[ in development ]`
+## ▚ J.A.R.V.I.S. (Inspired by a well-known superhero xD) — autonomous agent  `[ in development ]`
 
 The long game: a self-hosted agent that runs the whole loop on its own
 metal — scouts the target, writes and ships the code, researches what it
