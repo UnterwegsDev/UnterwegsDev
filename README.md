@@ -92,10 +92,10 @@ tooling and work that stays on my own metal.
 ```
   .-- J.A.R.V.I.S. // TELEMETRY ---------------------------------------.
   | core .................... stable  mode ................ autonomous |
-  | uptime .................... 313d  load ................... nominal |
+  | uptime .................... 314d  load ................... nominal |
   | scope ....... scout / code / r&d  self ................. improving |
-  | directive ..... "one operator, everything else delegated."         |
-  | last self-sync  2026-07-11 11:37 UTC                               |
+  | directive ..... "boring, reliable, quietly done."                  |
+  | last self-sync  2026-07-12 07:37 UTC                               |
   '--------------------------------------------------------------------'
 ```
 <!-- JARVIS:END -->
