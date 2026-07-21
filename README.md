@@ -1,10 +1,10 @@
 <div align="center">
 
-[![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=4ADECD&center=true&vCenter=true&width=680&height=40&lines=security+%26+infrastructure+tooling%2C+mostly+python.;building+an+agent+that+runs+the+whole+loop.;most+of+what+i+make+runs+at+home+and+stays+there.;the+long+game+is+autonomy.)](https://github.com/OneNobleSoul)
+[![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=4ADECD&center=true&vCenter=true&width=680&height=40&lines=security+%26+infrastructure+tooling%2C+mostly+python.;a+private+messenger+on+a+real+mix+network.;post-quantum+crypto%2C+zero-knowledge+servers.;most+of+what+i+make+runs+at+home+and+stays+there.)](https://github.com/OneNobleSoul)
 
 <br>
 
-`security tooling` · `infrastructure` · `autonomous agents` · `python`
+`security tooling` · `mix networks` · `post-quantum crypto` · `python`
 
 </div>
 
@@ -12,10 +12,38 @@
 
 ## ▚ about
 
-I build security and infrastructure tooling, mostly in Python, and I'm
-developing an autonomous agent to run the parts I'd rather not do by hand.
-A few of the tools turned out useful enough to open up — they're below.
-The agent is the long game, and it's getting close.
+I build security and infrastructure tooling, mostly in Python. My main
+project right now is **NobleChat** — a private messenger that runs over a
+real mix network with hybrid post-quantum encryption. A few smaller tools
+turned out useful enough to open up; they're below. Most of what I make
+runs at home and stays there.
+
+<br>
+
+## ▚ noblechat  ·  flagship
+
+> Private messaging over a real mix network with hybrid post-quantum
+> encryption. End-to-end encrypted in the browser — the server never sees
+> content and can't tell a real message from cover traffic.
+
+```
+  .-- NobleChat // SPEC ------------------------------------------.
+  | transport ..... Sphinx mix network  ·  or the public Nym net  |
+  | crypto ........ X25519 + ML-KEM-768  ·  Ed25519 + ML-DSA-65   |
+  | server ........ zero-knowledge  ·  opaque onion packets only  |
+  | delivery ...... accounts · multi-device · offline · at-rest   |
+  | chat .......... 1:1 & groups · files · calls · reactions      |
+  | clients ....... PWA · desktop · android  ·  self-hostable     |
+  | license ....... AGPL-3.0                                      |
+  '--------------------------------------------------------------'
+```
+
+A layered mix network moves every message as a constant-size onion packet
+with Poisson mixing and cover traffic — each node only ever learns its own
+hop. Keys are generated on your device and never leave it. Voice and video
+calls run over WebRTC, signalled end to end.
+
+→ **[github.com/OneNobleSoul/noblechat](https://github.com/OneNobleSoul/noblechat)** &nbsp;·&nbsp; working project · no independent audit yet
 
 <br>
 
@@ -49,58 +77,6 @@ Small, focused tools. Dependency-light, tested, no loose ends.
      non-zero for cron, no dependencies to rot.
   ╵
 ```
-
-<br>
-
-## ▚ J.A.R.V.I.S. (Inspired by a well-known superhero xD) — autonomous agent  `[ in development ]`
-
-The long game: a self-hosted agent that runs the whole loop on its own
-metal — scouts the target, writes and ships the code, researches what it
-doesn't know, and rewrites its own internals when it finds a better way.
-One operator, everything else delegated. It's close.
-
-```
-              _.-""""""-._
-            .'  _.----._  '.       scout    ·  recon, triage, target mapping
-           /   /        \   \      code     ·  build, patch, test, ship, redeploy
-          |   |   .--.   |   |     research ·  reads the field, closes its own gaps
-          |   |  ( () )  |   |     evolve   ·  rewrites & retrains its own core
-          |   |   '--'   |   |     memory   ·  persistent recall across sessions
-           \   \        /   /      swarm    ·  spawns sub-agents, delegates, reviews
-            '.  '-.__.-'  .'       voice    ·  wake-word, realtime speech in and out
-              '-._____.-'          watch    ·  proactive — acts before it's asked
-```
-
-```
-  .-- J.A.R.V.I.S. // CORE SPEC ---------------------------------.
-  | build ......... v0.9   ·   92%   [##################··]      |
-  | architecture .. mixture-of-experts  ·  self-modifying core   |
-  | params ........ 240B total / 22B active per token            |
-  | context ....... 512K tokens  +  persistent long-term memory  |
-  | senses ........ text · vision · voice (realtime STT/TTS)     |
-  | runtime ....... own metal · offline-capable · sandboxed      |
-  | interface ..... MCP-native · 40+ live tools · auto-skills    |
-  '--------------------------------------------------------------'
-```
-
-Almost there, and already useful. Even before it's finished it closes tasks
-end to end, lands flags in **CTFs**, and reports valid findings through
-**bug-bounty** programs. Most of what it does never surfaces — private
-tooling and work that stays on my own metal.
-
-<!-- JARVIS:START -->
-```
-  .-- J.A.R.V.I.S. // TELEMETRY ---------------------------------------.
-  | core .................... stable  mode ................ autonomous |
-  | uptime .................... 323d  load ................... nominal |
-  | scope ....... scout / code / r&d  self ................. improving |
-  | directive ..... "reads the field, closes its own gaps."            |
-  | last self-sync  2026-07-21 07:42 UTC                               |
-  '--------------------------------------------------------------------'
-```
-<!-- JARVIS:END -->
-
-<sub>the panel above is regenerated on its own — see <a href="gadget/telemetry.py">gadget/telemetry.py</a></sub>
 
 <br>
 
